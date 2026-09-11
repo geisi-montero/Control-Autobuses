@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>SistemaControlAutobuses.Presentacion</RootNamespace>
+    <AssemblyName>SistemaControlAutobuses</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaControlAutobuses.Entidades\CapaEntidad.csproj" />
+    <ProjectReference Include="..\SistemaControlAutobuses.Datos\CapaDatos.csproj" />
+    <ProjectReference Include="..\SistemaControlAutobuses.Negocio\CapaNegocio.csproj" />
+  </ItemGroup>
+
+</Project>

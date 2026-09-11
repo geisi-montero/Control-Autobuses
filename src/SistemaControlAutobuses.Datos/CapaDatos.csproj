@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>SistemaControlAutobuses.Datos</RootNamespace>
+    <AssemblyName>SistemaControlAutobuses.Datos</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaControlAutobuses.Entidades\CapaEntidad.csproj" />
+  </ItemGroup>
+
+</Project>

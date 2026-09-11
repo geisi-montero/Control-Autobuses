@@ -1,0 +1,28 @@
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Negocio.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Negocio.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Entidades.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Entidades.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Datos.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.AssemblyInfo.cs
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNego.81B9D119.Up2Date
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\SistemaControlAutobuses.Negocio.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\SistemaControlAutobuses.Negocio.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Negocio.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Negocio.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Entidades.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Entidades.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\bin\Debug\net48\SistemaControlAutobuses.Datos.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.AssemblyInfo.cs
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\CapaNego.81B9D119.Up2Date
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\SistemaControlAutobuses.Negocio.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Negocio\obj\Debug\net48\SistemaControlAutobuses.Negocio.pdb

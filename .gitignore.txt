@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio cache
+.vscode/
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Database / local files
+*.mdf
+*.ldf
+*.ndf
+
+# Publish files
+publish/
+*.publishsettings
+
+# Code coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS generated files
+.DS_Store
+
+# Secrets / configuration
+.env
+.env.*
+appsettings.local.json

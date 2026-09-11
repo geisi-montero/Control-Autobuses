@@ -1,0 +1,24 @@
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Datos.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Entidades.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Entidades.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.AssemblyInfo.cs
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.Up2Date
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses (1)\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\SistemaControlAutobuses.Datos.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Datos.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Entidades.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\bin\Debug\net48\SistemaControlAutobuses.Entidades.pdb
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.AssemblyInfo.cs
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\CapaDatos.csproj.Up2Date
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\SistemaControlAutobuses.Datos.dll
+C:\Users\geisi\Downloads\SistemaControlAutobuses\SistemaControlAutobuses\src\SistemaControlAutobuses.Datos\obj\Debug\net48\SistemaControlAutobuses.Datos.pdb

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>SistemaControlAutobuses.Entidades</RootNamespace>
+    <AssemblyName>SistemaControlAutobuses.Entidades</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Formularios\ControlAsignaciones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\ControlAutobuses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\ControlChoferes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\ControlDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\ControlRutas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Utilidades\BotonMenuLateral.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Utilidades\BotonPlano.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Utilidades\TarjetaIndicador.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
